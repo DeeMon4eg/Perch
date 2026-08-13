@@ -1,0 +1,64 @@
+Perch — License (Personal, Non-Commercial Use Only)
+Лицензия Perch — только личное, некоммерческое использование
+
+Copyright (c) 2026 DeeMon4eg. All rights reserved. / Все права защищены.
+
+--------------------------------------------------------------------------
+ENGLISH
+--------------------------------------------------------------------------
+
+This software and its source code (the "Software") are provided for
+PERSONAL, NON-COMMERCIAL USE ONLY.
+
+You MAY:
+  • Download, install and use the Software for your own personal needs.
+  • View and study the source code.
+  • Build the Software from source for your own personal use.
+
+You MAY NOT, without the prior written permission of the author:
+  • Use the Software or any part of its source code for any commercial
+    purpose or for any commercial advantage or monetary compensation.
+  • Sell, rent, lease, sublicense or otherwise distribute the Software or
+    modified versions of it.
+  • Redistribute the source code or compiled binaries, in whole or in part,
+    including on other websites, app stores or repositories.
+  • Remove or alter this license or the author's attribution.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Note: Perch works by disabling parts of macOS security (SIP / AMFI) and
+injecting a helper library into Finder. You use it entirely at your own risk.
+
+--------------------------------------------------------------------------
+РУССКИЙ
+--------------------------------------------------------------------------
+
+Данное программное обеспечение и его исходный код («ПО») предоставляются
+ИСКЛЮЧИТЕЛЬНО ДЛЯ ЛИЧНОГО, НЕКОММЕРЧЕСКОГО ИСПОЛЬЗОВАНИЯ.
+
+Вы МОЖЕТЕ:
+  • Скачивать, устанавливать и использовать ПО для личных нужд.
+  • Просматривать и изучать исходный код.
+  • Собирать ПО из исходников для личного использования.
+
+Вы НЕ МОЖЕТЕ без предварительного письменного разрешения автора:
+  • Использовать ПО или любую часть его исходного кода в коммерческих целях
+    либо для извлечения любой коммерческой выгоды.
+  • Продавать, сдавать в аренду, сублицензировать или иным образом
+    распространять ПО или его изменённые версии.
+  • Повторно распространять исходный код или бинарные файлы полностью или
+    частично, в том числе на других сайтах, в магазинах приложений или
+    репозиториях.
+  • Удалять или изменять данную лицензию и указание авторства.
+
+ПО ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ. АВТОР НЕ НЕСЁТ
+ОТВЕТСТВЕННОСТИ ЗА ЛЮБОЙ УЩЕРБ, СВЯЗАННЫЙ С ИСПОЛЬЗОВАНИЕМ ПО.
+
+Внимание: Perch работает за счёт отключения части защиты macOS (SIP / AMFI)
+и внедрения вспомогательной библиотеки в Finder. Вы используете его
+полностью на свой страх и риск.

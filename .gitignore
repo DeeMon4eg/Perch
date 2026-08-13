@@ -1,0 +1,15 @@
+# Собранные бандлы и образы
+*.app/
+*.dmg
+
+# Артефакты сборки (генерятся makeicons.swift / build-app.sh)
+/foldertop_hook.dylib
+/app/AppIcon.icns
+/app/AppIcon.iconset/
+/app/menubarTemplate.png
+/app/icon_preview.png
+
+# Системное / временное
+.DS_Store
+/tmp/
+*.o
